@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Kem Cam Lốc Xoáy	</title>
+	<atom:link href="/product/kem-cam-loc-xoay/feed/" rel="self" type="application/rss+xml" />
+	<link>/product/kem-cam-loc-xoay/</link>
+	<description>Nâng cao chất lượng kem toàn cầu</description>
+	<lastBuildDate>Mon, 13 Nov 2023 15:31:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>
+		Bởi: phamhieu		</title>
+		<link>/product/kem-cam-loc-xoay/#comment-9</link>
+
+		<dc:creator><![CDATA[phamhieu]]></dc:creator>
+		<pubDate>Mon, 13 Nov 2023 15:31:09 +0000</pubDate>
+		<guid isPermaLink="false">/?post_type=product#038;p=411#comment-9</guid>
+
+					<description><![CDATA[ngon nha]]></description>
+			<content:encoded><![CDATA[<p>ngon nha</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Bởi: phamhieu		</title>
+		<link>/product/kem-cam-loc-xoay/#comment-8</link>
+
+		<dc:creator><![CDATA[phamhieu]]></dc:creator>
+		<pubDate>Mon, 13 Nov 2023 15:30:42 +0000</pubDate>
+		<guid isPermaLink="false">/?post_type=product#038;p=411#comment-8</guid>
+
+					<description><![CDATA[chán chưa kịp đặt đã hết :((]]></description>
+			<content:encoded><![CDATA[<p>chán chưa kịp đặt đã hết :((</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Bởi: phamhieu		</title>
+		<link>/product/kem-cam-loc-xoay/#comment-7</link>
+
+		<dc:creator><![CDATA[phamhieu]]></dc:creator>
+		<pubDate>Mon, 13 Nov 2023 15:29:39 +0000</pubDate>
+		<guid isPermaLink="false">/?post_type=product#038;p=411#comment-7</guid>
+
+					<description><![CDATA[ngon thế này mà hết sớm vậy]]></description>
+			<content:encoded><![CDATA[<p>ngon thế này mà hết sớm vậy</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

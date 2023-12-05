@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Sữa tươi trân châu đường hổ khổng lồ	</title>
+	<atom:link href="/product/sua-tuoi-tran-chau-duong-ho-khong-lo/feed/" rel="self" type="application/rss+xml" />
+	<link>/product/sua-tuoi-tran-chau-duong-ho-khong-lo/</link>
+	<description>Nâng cao chất lượng kem toàn cầu</description>
+	<lastBuildDate>Sun, 12 Nov 2023 00:50:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>
+		Bởi: phamhieu		</title>
+		<link>/product/sua-tuoi-tran-chau-duong-ho-khong-lo/#comment-3</link>
+
+		<dc:creator><![CDATA[phamhieu]]></dc:creator>
+		<pubDate>Sat, 11 Nov 2023 09:10:59 +0000</pubDate>
+		<guid isPermaLink="false">/?post_type=product#038;p=151#comment-3</guid>
+
+					<description><![CDATA[sản phẩm ngọt quá]]></description>
+			<content:encoded><![CDATA[<p>sản phẩm ngọt quá</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

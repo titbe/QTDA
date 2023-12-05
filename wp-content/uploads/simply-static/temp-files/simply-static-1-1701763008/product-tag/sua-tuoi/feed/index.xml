@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>sữa tươi Archives - MIXUE</title>
+	<atom:link href="/product-tag/sua-tuoi/feed/" rel="self" type="application/rss+xml" />
+	<link>/product-tag/sua-tuoi/</link>
+	<description>Nâng cao chất lượng kem toàn cầu</description>
+	<lastBuildDate>Sun, 12 Nov 2023 00:50:01 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/11/mixue-x-black-bull-logo-06CA0C72C4-seeklogo.com_.png</url>
+	<title>sữa tươi Archives - MIXUE</title>
+	<link>/product-tag/sua-tuoi/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sữa tươi trân châu đường hổ khổng lồ</title>
+		<link>/product/sua-tuoi-tran-chau-duong-ho-khong-lo/</link>
+					<comments>/product/sua-tuoi-tran-chau-duong-ho-khong-lo/#comments</comments>
+		
+		<dc:creator><![CDATA[hieu]]></dc:creator>
+		<pubDate>Sat, 11 Nov 2023 09:09:50 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=151</guid>
+
+					<description><![CDATA[<p>Sữa tươi nguyên kem thơm béo, có sẵn topping trân châu đường đen dẻo dai mang lại trải nghiệm thú vị hấp dẫn</p>
+<p>The post <a rel="nofollow" href="/product/sua-tuoi-tran-chau-duong-ho-khong-lo/">Sữa tươi trân châu đường hổ khổng lồ</a> appeared first on <a rel="nofollow" href="">MIXUE</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/product/sua-tuoi-tran-chau-duong-ho-khong-lo/">Sữa tươi trân châu đường hổ khổng lồ</a> appeared first on <a rel="nofollow" href="">MIXUE</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/sua-tuoi-tran-chau-duong-ho-khong-lo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

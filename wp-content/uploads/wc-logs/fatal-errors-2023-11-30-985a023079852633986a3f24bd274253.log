@@ -1,0 +1,690 @@
+2023-11-30T16:31:16+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:31:29+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:31:47+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:32:25+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:32:42+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:32:50+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:32:56+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:33:05+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:33:13+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:34:56+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:35:06+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:35:09+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:35:11+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:35:57+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\woocommerce.php(8): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:36:02+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\woocommerce.php(8): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:36:13+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:36:26+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:36:30+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:36:37+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:37:22+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\woocommerce.php(8): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:37:29+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:38:09+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:38:17+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:38:35+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:38:50+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\woocommerce.php(8): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:38:56+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\woocommerce.php(8): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:41:01+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\woocommerce.php(8): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:45:33+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\woocommerce.php(8): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:46:38+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\open-woocommerce\header.php(155): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\woocommerce.php(8): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:51:05+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\header.php(162): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\woocommerce.php(8): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:52:12+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\header.php(162): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\woocommerce.php(8): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:52:26+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\header.php(162): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:52:31+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\header.php(162): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:52:41+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\header.php(162): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:52:49+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\header.php(162): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:53:13+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\header.php(162): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:53:17+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\header.php(162): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:53:21+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\header.php(162): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:53:31+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\header.php(162): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:53:38+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\header.php(162): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:53:47+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\header.php(162): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\page.php(14): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:57:25+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\header.php(162): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\woocommerce.php(8): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T16:58:36+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * string in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php:5833
+Stack trace:
+#0 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media-image.php(250): wp_get_loading_optimization_attributes('img', Array, 'widget_media_im...')
+#1 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets\class-wp-widget-media.php(257): WP_Widget_Media_Image->render_media(Array)
+#2 C:\xampp\htdocs\TocotocoTea\wp-includes\widgets.php(1261): WP_Widget_Media->widget(Array, Array)
+#3 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\header.php(162): the_widget('WP_Widget_Media...', Array)
+#4 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\TocotocoTea\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#6 C:\xampp\htdocs\TocotocoTea\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\xampp\htdocs\TocotocoTea\wp-content\themes\best-shop\woocommerce.php(8): get_header()
+#8 C:\xampp\htdocs\TocotocoTea\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\TocotocoTea\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\TocotocoTea\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\TocotocoTea\wp-includes\media.php on line 5833
+
+2023-11-30T17:20:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\TocotocoTea\wp-includes\Requests\src\Transport\Curl.php on line 510
+
